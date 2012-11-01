@@ -1,3 +1,59 @@
+h1{
+  color: black; background: blue; font-family: desdemona; font-size: 50px; width: 338px; height: 50px; padding: 20px; text-shadow: 2px 2px 2px #111;
+  opacity: 0.8
+  
+}
+h2{
+  color: white; background: grey; font-size: 25px; font-family: desdemona; width: 1020px; padding:10px; text-align:center; text-decoration: underline
+}
+h3{
+  color: white; background: grey; font-size: 20px; font-family: desdemona; width: 960px; float: right; padding: 20px; text-decoration:underline;
+  text-align: center
+}
 p{
-  color; orange:
-  }
+  color: blue; font-size:15px; font-family: sans-serif, helvetica, arial; float: right; width: 960px; text-shadow: 1px 1px 1px #111
+}
+li{
+  color: black; font-size: 15px; font-family: helvetica, sans-serif, arial; float:right; width: 960px
+}
+#wrapper{
+         width: 700px;
+         margin: 0 auto;
+}
+ol{
+   width: 1090px; float: left; text-shadow: 1px 1px 1px #111
+}
+ul{
+  float: ; width: 960px; text-shadow: 1px 1px 1px #111; text-decoration:underline
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
