@@ -1,30 +1,69 @@
 h1{
-  color: black; background: blue; font-family: desdemona; font-size: 50px; width: 338px; height: 50px; padding: 20px; text-shadow: 2px 2px 2px #111;
+  color: white; background: blue; font-family: desdemona; font-size: 50px; width: 338px; height: 50px; padding: 20px; text-shadow: 2px 2px 2px #111;
   opacity: 0.8
   
 }
 h2{
-  color: white; background: grey; font-size: 25px; font-family: desdemona; width: 1020px; padding:10px; text-align:center; text-decoration: underline
+  color: blue; background: white; font-size: 25px; font-family: desdemona; width: 1400px; padding:10px; text-align:center; text-decoration: underline;
+  float: right
+  
 }
 h3{
-  color: white; background: grey; font-size: 20px; font-family: desdemona; width: 960px; float: right; padding: 20px; text-decoration:underline;
-  text-align: center
+  color: red; background: white; font-size: 20px; font-family: desdemona; width: 700px; padding: 50px; text-decoration:underline;
+  text-align: justify; 
 }
 p{
-  color: blue; font-size:15px; font-family: sans-serif, helvetica, arial; float: right; width: 960px; text-shadow: 1px 1px 1px #111
+  color: black; font-size:15px; font-family: charlemagne std , helvetica, arial; float:right; width: 1150px; text-shadow: 1px 1px 1px #111;
+  float:left ; padding: 20px
 }
+
 li{
-  color: black; font-size: 15px; font-family: helvetica, sans-serif, arial; float:right; width: 960px
+  color: black; font-size: 17px; font-family: helvetica, sans-serif, arial; float: left; width: 960px; text-align:justify ; padding: 5px;
+   height: 10px; margin: 10px
 }
 #wrapper{
-         width: 700px;
-         margin: 0 auto;
+         width: 1300px;
+         margin:0 auto; float: left; text-align: center; color: blue;
 }
 ol{
-   width: 1090px; float: left; text-shadow: 1px 1px 1px #111
+   width: 900px; text-shadow: 1px 1px 1px #111;
 }
-ul{
-  float: ; width: 960px; text-shadow: 1px 1px 1px #111; text-decoration:underline
+ul li{
+      text-shadow: 1px 1px 1px #333; text-align: center; height: 20px; width: 1060px; text-decoration: underline; background: white; margin: 0 auto;
+      padding: 10px; opacity: 0.8; list-style-type: none;
+}
+
+a{ 
+  display: block; height: 30px; line-height: 30px; text-align: center; color: red;
+}
+
+a:hover{
+        color: white; background: blue;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
