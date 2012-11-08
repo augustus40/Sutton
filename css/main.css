@@ -1,44 +1,125 @@
 h1{
-  color: white; background: blue; font-family: desdemona; font-size: 50px; width: 338px; height: 50px; padding: 20px; text-shadow: 2px 2px 2px #111;
-  opacity: 0.8
+  color: blue; background: red; font-family: desdemona; font-size: 4.1325em; width: 99.846153846154%;/'1220px'/; height: 5.384615384614%/' 70px'/; padding: .1538461538462%/' 20px'/ ; text-shadow: 5px 7px 5px #111;
+  text-align: center; border-width: .2692307692308%/' 35px'/ ; border-style: inset; border-color: navy; float: right
+  
+  
   
 }
 h2{
-  color: blue; background: white; font-size: 25px; font-family: desdemona; width: 1400px; padding:10px; text-align:center; text-decoration: underline;
-  float: right
+  color: red; font-size: 2.3em; font-family: desdemona; width: 99.076923076923%; /' 430px'/; padding: 5.384615384615%/'70px'/ ; text-decoration: underline;
+  height: .384615384615%/' 5px'/; text-shadow: 3px 1px 3px #111; float: left
   
 }
 h3{
-  color: red; background: white; font-size: 20px; font-family: desdemona; width: 700px; padding: 50px; text-decoration:underline;
-  text-align: justify; 
+  color: red; font-size: 1.8125em; font-family: desdemona; width: 99.615384615395%;/" 1295px/; padding: .384615384615%/' 5px'/; text-decoration:underline;
+  text-align: center; float: right; text-shadow: 2px 1px 3px; border-style: outset; border-width: .307692307692%/'4px'/; border-color: red;
+  background: blue; opacity: 0.9
+  
 }
 p{
-  color: black; font-size:15px; font-family: charlemagne std , helvetica, arial; float:right; width: 1150px; text-shadow: 1px 1px 1px #111;
-  float:left ; padding: 20px
+  color: white; font-size:0.95em; font-family: desdemona, helvetica, arial; width: 99.769230769231% ; text-shadow: 1px 1px 1px #111;
+  float: left ; padding: 1.153846153846%/'15p'/x; background: red; border-style: ridge; border-color: blue; height: 5.384615384615%/' 70px'/: text-align: center
 }
 
+
 li{
-  color: black; font-size: 17px; font-family: helvetica, sans-serif, arial; float: left; width: 960px; text-align:justify ; padding: 5px;
-   height: 10px; margin: 10px
+  color: white; font-size: 0.5379em; font-family: helvetica, sans-serif, arial; float: left; width: 30.615384615385%/' 450px'/; text-align: left ; padding: .461538461538%/' 6px'/3;
+   height: 3%/' 39px'/; margin: .769230769231%/' 10px'/; background: red
 }
 #wrapper{
-         width: 1300px;
-         margin:0 auto; float: left; text-align: center; color: blue;
+         width: 100%/' 1300px'/;
+         margin:0 auto; float: right; text-align: center; color: blue;
 }
 ol{
-   width: 900px; text-shadow: 1px 1px 1px #111;
+   width: 79.076923076923% /'950px'/; text-shadow: 2px 2px 2px #111; padding: .692307692308%/' 9px'/; float:left; font-size: 1.3em
 }
 ul li{
-      text-shadow: 1px 1px 1px #333; text-align: center; height: 20px; width: 1060px; text-decoration: underline; background: white; margin: 0 auto;
-      padding: 10px; opacity: 0.8; list-style-type: none;
+      text-shadow: 3px 3px 3px #111; text-align: center; height: 2.307692307692%/' 30px'/; width: 13.076923076923%/' 170px'/; margin: 1px ;
+      padding: 1.153846153846%/'15px'/; opacity: 0.9; list-style-type: none; background: grey; float:left; font-size: 1.1em
 }
 
 a{ 
-  display: block; height: 30px; line-height: 30px; text-align: center; color: red;
+  display: block; text-align: center; color: navy; background: red; width: 13.076923076923% /' 170px'/; padding: .384615384615%/' 5px'/; height: 1.153846153846%/' 15px'/;
+  border-style: outset; border-color: red; border-width: .692307692308%/' 9px'/; float: left
+  
+  
 }
 
 a:hover{
-        color: white; background: blue;
+        color: red; background: blue; 
+}
+
+article{
+         float: left; width: 99.153846153846%;/" 1250px/ height: 4.615384615385%/' 60px'/; text-align: justify; padding: 2.307692307692%/' 30px'/; font-family: charlemagne std; font-size: 0.75em;
+        text-shadow: 1px 1px 1px #111; background: blue; color: white; border-style: ridge; border-color: red;
+}
+
+img{
+     width: 109px ; height: 280px; padding: 100px; background: red; border-style: outset; border-color: navy; border-width: 7px; 
+}
+
+body{
+     background: grey; font: 100%/1.5 "desdemona"
+}
+
+
+images_gallery{
+               max-width: 100%
+}
+section{
+       max-width: 100%;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
