@@ -75,7 +75,7 @@ section{
 
 
 
-                   /' media queries'/
+                   /" media queries"/ /"couldn't get plug in to work"/
 
 
 @media screen and(min-width:868px) and (max-width:1390px)
@@ -91,6 +91,7 @@ section{
 @media only screen and ( max-width: 479px){
     
   }
+
 
 
 
