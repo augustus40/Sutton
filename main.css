@@ -23,19 +23,19 @@ p{
 
 
 li{
-  color: red; font-size: 0.390em; font-family: helvetica, sans-serif, arial; width: 30.615384615385%/' 450px'/; text-align: center ; padding: .461538461538%/' 6px'/3;
-   height: 3%/' 39px'/; margin: .769230769231%/' 10px'/;
+  color: red; font-size: 8.923076923077% /'16px/; font-family: helvetica, sans-serif, arial; float: left; width: 34.615384615385%/' 450px'/; text-align: left ; padding:.461538461538%/' 6px'/;
+   height: 3%/' 39px'/; margin: .769230769231%/' 10px'/; 
 }
 #wrapper{
          width: 100%/' 1300px'/;
          margin:0 auto; float: right; text-align: center; color: blue;
 }
 ol{
-   width: 79.076923076923% /'950px'/; text-shadow: 2px 2px 2px #111; padding: .692307692308%/' 9px'/; float: left; font-size: 3.7em
+   width: 76.923076923077% /'950px'/; text-shadow: 2px 2px 2px #111; padding: .692307692308%/' 9px'/; float: right; font-size: 1.5em;
 }
 ul li{
-      text-shadow: 3px 3px 3px #111; text-align: center; height: 2.307692307692%/' 30px'/; width: 13.076923076923%/' 170px'/; margin: 0 auto ;
-      padding: 1.153846153846%/'15px'/; opacity: 0.9; list-style-type: none; background: grey; float:left; font-size: 1.3em
+      text-shadow: 3px 3px 3px #111; text-align: center; height: 2.307692307692%/' 30px'/; width: 13.076923076923%/' 170px'/; margin: 1px ;
+      padding: 1.153846153846%/'15px'/; opacity: 0.9; list-style-type: none; background: grey; float:left; font-size: 1.1em
 }
 
 a{ 
@@ -55,42 +55,22 @@ article{
 }
 
 img{
-     width: 189px; height: 280px; padding: 20px; background: red; border-style: outset; border-color: navy; border-width: 7px; 
+     width: 111px ; height: 280px; padding: 100px; background: red; border-style: outset; border-color: navy; border-width: 7px; 
 }
 
 body{
-     background: grey; font: 100%/1.5 "desdemona"; max-width: 1390px
+     background: grey; font: 100%/1.5 "desdemona"
 }
 
 
-#images_gallery{
-               max-width: 100%; margin:0 auto; 
+images_gallery{
+               max-width: 100%
 }
 section{
        max-width: 100%;
 
 
 
-
-
-
-
-                   /' media queries'/
-
-
-@media screen and(min-width:868px) and (max-width:1390px)
-   
-    
-    
-  }
-  
-@media only screen and (min-width: 480px) and (max-width: 868px){
-    
-  }
-  
-@media only screen and ( max-width: 479px){
-    
-  }
 
 
 
